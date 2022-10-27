@@ -1,0 +1,2 @@
+# ama
+Azure Monitoring Agent
